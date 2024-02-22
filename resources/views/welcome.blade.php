@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Adipati</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -55,7 +55,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel has wonderful, thorough documentation covering every aspect of the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate est soluta dolores eum, deserunt iure fugiat fugit cumque placeat debitis. In ipsam possimus deserunt nostrum eveniet a explicabo repellat soluta assumenda, delectus repudiandae sit facilis doloribus recusandae aliquid officiis natus labore perferendis velit voluptatum aliquam numquam dicta aut? Deserunt, ullam id asperiores necessitatibus, quia non libero eaque facilis dolore totam vitae repudiandae minima fugit sed aperiam autem cum optio, quos a hic sit commodi soluta? At quia reiciendis perferendis maxime, dolore veniam fuga est harum, velit laudantium sapiente autem nemo rem optio. Porro quae consequatur minus, voluptatibus harum deleniti.
                                 </div>
                             </div>
                         </div>
